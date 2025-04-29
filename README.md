@@ -1,4 +1,4 @@
-# Telecom-Customer-Churn-Analysis
+# Telecom Customer Churn Analysis
 ## Project Description
 This project focuses on analysing customer churn data from a telecommunications company in the USA to uncover trends, patterns, service satisfaction, and key drivers of churn. The objective is to identify key drivers of churn, understand customer profiles, and uncover actionable insights that can guide data-driven decision-making and customer retention strategies. Using Power BI for visualisation and DAX for custom calculations, the goal is to build an insightful, interactive dashboard that helps the company improve customer retention, identify high-risk segments, and make data-informed business decisions.
 ## Project Goals and Objectives
@@ -14,7 +14,7 @@ Customer churn poses a significant challenge for most telecom companies, especia
 This data was downloaded from Maven Analytics Playground, download here [ https://app.mavenanalytics.io/datasets ]  
 
 # Tools Used 
-Power Bi : Visualization  
+Power Bi: Visualization  
 Power Query: For Data Cleaning
 
 # Key Findings  
@@ -25,7 +25,7 @@ Power Query: For Data Cleaning
   
 
 ### **Customer Retention Trends**
-* Majority of customers who churned had monthly charges above average.<br>
+* The majority of customers who churned had monthly charges above average.<br>
 * High-value customers make up a significant portion of churned accounts.<br>
 * Tenure among churned customers is relatively low, suggesting issues in early-stage customer experience.<br>  
 
